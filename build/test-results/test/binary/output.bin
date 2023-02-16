@@ -1,0 +1,128 @@
+Request method:	POST
+1Request URI:	https://petstore.swagger.io/v2/pet
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": "38229",
+    "category": {
+        "id": 1,
+        "name": "dogs"
+    },
+    "name": "My pet",
+    "photoUrls": [
+{        "https://www.tesco.ie/groceries/MarketingContent/Sites/Retail/superstore/Online/P/i/departments/2016/Pets/1BC.jpg"
+    ],
+    "tags": [
+
+        {
+            "id": 1,
+'            "name": "golden-retriever"
+
+        }
+    ],
+    "status": "available"
+}
+{
+    "id": 38229,
+    "category": {
+        "id": 1,
+        "name": "dogs"
+    },
+    "name": "My pet",
+    "photoUrls": [
+{        "https://www.tesco.ie/groceries/MarketingContent/Sites/Retail/superstore/Online/P/i/departments/2016/Pets/1BC.jpg"
+    ],
+    "tags": [
+
+        {
+            "id": 1,
+'            "name": "golden-retriever"
+
+        }
+    ],
+    "status": "available"
+}
+Request method:	PUT
+1Request URI:	https://petstore.swagger.io/v2/pet
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": "38229",
+    "category": {
+        "id": 1,
+        "name": "dogs"
+    },
+#    "name": "New name for my pet",
+    "photoUrls": [
+{        "https://www.tesco.ie/groceries/MarketingContent/Sites/Retail/superstore/Online/P/i/departments/2016/Pets/1BC.jpg"
+    ],
+    "tags": [
+
+        {
+            "id": 1,
+'            "name": "golden-retriever"
+
+        }
+    ],
+    "status": "pending"
+}
+{
+    "id": 38229,
+    "category": {
+        "id": 1,
+        "name": "dogs"
+    },
+#    "name": "New name for my pet",
+    "photoUrls": [
+{        "https://www.tesco.ie/groceries/MarketingContent/Sites/Retail/superstore/Online/P/i/departments/2016/Pets/1BC.jpg"
+    ],
+    "tags": [
+
+        {
+            "id": 1,
+'            "name": "golden-retriever"
+
+        }
+    ],
+    "status": "pending"
+}
+Request method:	GET
+7Request URI:	https://petstore.swagger.io/v2/pet/38229
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	petId=38229
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+7Request URI:	https://petstore.swagger.io/v2/pet/38229
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	petId=38229
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>

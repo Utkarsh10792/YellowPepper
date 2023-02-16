@@ -1,4 +1,5 @@
 # YellowPepper
+**There is a separate folder for Monefy exploratory testing**
 **REST Assured - Swagger Petstore - OpenAPI**
 
 This repository contains example tests for sample Petstore server.
